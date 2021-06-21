@@ -1,5 +1,4 @@
-# hichip
-H3k27ac-HiChIP in prostate cell lines identifies risk genes for prostate cancer susceptibility
+H3k27ac-HiChIP in LNCaP
 ===================================================
 
 The repository contains the raw data and main results reported in
