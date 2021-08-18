@@ -1,7 +1,7 @@
 H3k27ac-HiChIP in LNCaP
 ===================================================
 
-The repository contains the raw data and main results reported in
+The repository contains the intermediate files reported in
 *H3k27ac-HiChIP in prostate cell lines identifies risk genes for prostate cancer susceptibility*
 Claudia Giambartolomei* and Ji-Heui Seo*, Tommer Schwarz, Malika Kumar Freund, Ruth Dolly Johnson, Sandor Spisak, Sylvan C. Baca, Alexander Gusev, Nicholas Mancuso, Bogdan Pasaniuc and Matthew L. Freedman.
 bioRxiv 2020.
