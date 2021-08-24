@@ -30,6 +30,8 @@ Results
 - `ALL_TCGA_sig_thresh_bonferroni.txt.gz` all associations at a Bonferroni threshold.
 - `ALL_Thibodeau_sig_thresh_bonferroni.txt.gz` all associations at a Bonferroni threshold. 
  
+`code` Code used in the paper to annotate HiChIP loops with data (GWAS, eQTLs, etc). 
+
 Software and support
 --------------------
 Dependencies: Packages in R: 
